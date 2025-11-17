@@ -3,13 +3,13 @@
 <h3>Business Intelligence Leader | Driving Data Automation, Profitability, & Operational Excellence</h3>
 
 <p>
-  <em>I build reliable data systems, automate messy operational workflows, and turn operational chaos into clear, decision-ready insights.</em>
+  <em>I enjoy building reliable data systems, automating messy operational workflows, and turning operational chaos into clear, decision-ready insights.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-Business Intelligence leader with experience building analytics functions, designing end-to-end data pipelines, and partnering closely with operations, finance, and leadership to drive strategic outcomes. Passionate about simplifying complexity, improving decision-making, and building data automation that scales.
+I love telling the story behind the data, designing end-to-end data pipelines, and partnering closely with operations, finance, and leadership to drive strategic outcomes. I am passionate about simplifying complexity, improving decision-making, and building data automation that scales.
 
 ---
 
@@ -75,7 +75,7 @@ Business Intelligence leader with experience building analytics functions, desig
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/joshua-v-8a374157" target="_blank">
+  <a href="https://www.linkedin.com/in/joshua-v-8a374157" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
