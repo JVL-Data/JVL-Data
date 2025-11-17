@@ -29,7 +29,7 @@ I love telling the story behind the data, designing end-to-end data pipelines, a
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Data%20Studio-%234285F4.svg?style=for-the-badge&logo=googlestudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### 🔧 Data Engineering
