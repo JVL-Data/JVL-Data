@@ -72,6 +72,15 @@ I love telling the story behind the data, designing end-to-end data pipelines, a
 
 ---
 
+## 📸 Projects
+
+<p align="center">
+  <a href="https://github.com/JVL-Data/data-automation-report-hub">
+    <img src="https://github.com/JVL-Data/data-automation-report-hub/blob/main/assets/NavigationHub_Portfolio.png" width="220"/>
+  </a>
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
