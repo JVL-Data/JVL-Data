@@ -74,10 +74,10 @@ I love telling the story behind the data, designing end-to-end data pipelines, a
 
 ## 📸 Projects
 
-<p align="center">
-  <a href="https://github.com/JVL-Data/data-automation-report-hub">
-    <img src="https://github.com/JVL-Data/data-automation-report-hub/blob/main/assets/NavigationHub_Portfolio.png" width="220"/>
-  </a>
+| Image/Link | Description |
+|--------|-------------|
+| <a href="https://github.com/JVL-Data/data-automation-report-hub"><img src="https://github.com/JVL-Data/data-automation-report-hub/blob/main/assets/NavigationHub_Portfolio.png" width="220"/></a> | Integrated data from nine separate ServiceTitan accounts into automated ETL pipelines and centralized SQL storage, powering BI dashboards and a unified Looker Studio Report Hub. |
+
 
 ---
 
