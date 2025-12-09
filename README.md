@@ -76,8 +76,8 @@ I love telling the story behind the data, designing end-to-end data pipelines, a
 
 | Image/Link | Description |
 |--------|-------------|
-| <a href="https://github.com/JVL-Data/data-automation-report-hub"><img src="https://github.com/JVL-Data/data-automation-report-hub/blob/main/assets/NavigationHub_Portfolio.png" width="220"/></a> | Integrated data from nine separate ServiceTitan accounts into automated ETL pipelines and centralized SQL storage, powering BI dashboards and a unified Looker Studio Report Hub. |
-
+| <a href="https://github.com/JVL-Data/data-automation-report-hub"><img src="https://github.com/JVL-Data/data-automation-report-hub/blob/main/assets/NavigationHub_Portfolio.png" width="220"/></a> | **Data Automation Report Hub:** Integrated data from nine separate ServiceTitan accounts into automated ETL pipelines and centralized SQL storage, powering BI dashboards and a unified Looker Studio Report Hub. |
+| <a href="https://github.com/JVL-Data/fleet-vehicle-tracking-system"><img src="https://github.com/JVL-Data/fleet-vehicle-tracking-system/blob/main/assets/FleetSystem_EmailText.png" width="220"/></a> | **Fleet Vehicle Tracking System:** Built a Google Sheets–based fleet tracking system with governed data entry, automated regional reporting, and scheduled email distribution using Apps Script. Data additionally fed to SQL for advanced reporting and analysis. |
 
 ---
 
