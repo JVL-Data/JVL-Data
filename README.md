@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1>Joshua Vanlaar</h1>
-<h3>Business Intelligence Leader | Driving Data Automation, Profitability, & Operational Excellence</h3>
+<h3>Business Intelligence Leader | Transforming Data, AI, and Analytics into Scalable Business Outcomes</h3>
 
 <p>
   <em>I enjoy building reliable data systems, automating messy operational workflows, and turning operational chaos into clear, decision-ready insights.</em>
@@ -24,6 +24,13 @@ I love telling the story behind the data, designing end-to-end data pipelines, a
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+### 🤖 AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cowork-4A90E2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+  
 ### 📊 BI & Visualization
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -40,17 +47,14 @@ I love telling the story behind the data, designing end-to-end data pipelines, a
 
 ### ☁️ Databases & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Snowflake-%2300C3E6.svg?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ### 🛠 Additional Tools & Systems
 <p>
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
   <img src="https://img.shields.io/badge/ServiceTitan-%2324292E.svg?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/QuickBooks-%2300C244.svg?style=for-the-badge&logo=intuit&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
