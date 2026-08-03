@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I build the bridge between messy operational challenges and scalable technical solutions. My work spans data engineering, business intelligence, automation, and AI enablement — helping organizations turn disconnected data into trusted systems that drive action.
+I build the bridge between messy operational challenges and scalable technical solutions. My work spans data engineering, business intelligence, automation, and AI enablement, helping organizations turn disconnected data into trusted systems that drive action.
 
 I enjoy designing reliable pipelines, creating self-service analytics platforms, and partnering with teams across operations, finance, and leadership to solve complex problems through data.
 
