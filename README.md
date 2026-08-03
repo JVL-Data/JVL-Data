@@ -1,15 +1,18 @@
 <!-- Title -->
 <h1>Joshua Vanlaar</h1>
-<h3>Business Intelligence Leader | Transforming Data, AI, and Analytics into Scalable Business Outcomes</h3>
+<h3>Business Intelligence Leader | Engineering Data, Analytics, and AI Solutions for Smarter Operations</h3>
 
 <p>
-  <em>I enjoy building reliable data systems, automating messy operational workflows, and turning operational chaos into clear, decision-ready insights.</em>
+  <em>I build data-driven systems that combine analytics, automation, and AI to eliminate manual processes and deliver decision-ready insights at scale.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-I love telling the story behind the data, designing end-to-end data pipelines, and partnering closely with operations, finance, and leadership to drive strategic outcomes. I am passionate about simplifying complexity, improving decision-making, and building data automation that scales.
+
+I build the bridge between messy operational challenges and scalable technical solutions. My work spans data engineering, business intelligence, automation, and AI enablement — helping organizations turn disconnected data into trusted systems that drive action.
+
+I enjoy designing reliable pipelines, creating self-service analytics platforms, and partnering with teams across operations, finance, and leadership to solve complex problems through data.
 
 ---
 
